@@ -1,0 +1,22 @@
+/*body{
+    background-color: blue;
+}*/ 
+/*comentario*/
+
+
+*{
+    font-size: 20px;
+}
+
+h1{
+    color: rgb(148, 50, 50)
+}
+
+#parrafo-id{
+    color: #26A29E
+}
+
+.parrafo-class{
+    color: greenyellow;
+    font-size: 30px;
+ }
